@@ -1,0 +1,384 @@
+
+
+nav, section
+
+{
+	padding: 1px 0;
+}
+
+
+
+
+
+nav
+
+{
+	float: left;
+
+	background-color: #263238;
+
+	width: 25%;
+
+	height: 2060px;
+
+}
+
+
+
+p
+
+{
+
+
+	font-family: Verdana;
+
+	color: #FAFAFA;
+
+}
+
+
+.Formation1
+
+{
+	margin-top: 80px;
+}
+
+
+.section0
+
+{
+	margin-left: 450px;
+	display: none;
+}
+
+
+
+
+.section1
+
+{
+
+	margin-left: 450px;
+
+}
+
+.Nom
+
+{
+
+  color: #03A9F4;
+
+}
+
+
+.Titre
+
+{
+	font-size: 4em;
+
+	font-style: italic;
+
+	font-family: Georgia;
+
+	color: #455A64;
+
+}
+
+.Sous-titre
+
+{
+	font-size: 2em;
+
+	font-family: Georgia;
+
+	margin-top: -45px;
+
+	color: #455A64;
+
+}
+
+.Dev
+
+{
+
+  text-decoration: underline;
+
+  margin-left: 16px;
+
+
+}
+
+.cercle
+
+{
+
+    overflow: hidden;
+
+    -webkit-border-radius: 100px;
+
+    -moz-border-radius: 100px;
+
+    border-radius: 100px;
+
+    width: 190px;
+
+    height: 190px;
+
+    margin: auto;
+
+    margin-top: 55px;
+
+ 
+}
+
+.Contact
+
+{
+
+	font-size: 2em;
+
+	font-family: Courier New;
+
+	color: #03A9F4;
+
+	width: 100%;
+
+	background-color: #455A64;
+
+	text-align: center;
+
+}
+
+.Contact0
+
+{
+
+	font-size: 2em;
+
+	font-family: Courier New;
+
+	color: #03A9F4;
+
+	width: 100%;
+
+	background-color: #455A64;
+
+	text-align: center;
+
+	margin-top: 270px;
+
+}
+
+.bla
+
+{
+
+	margin: 25px;
+
+	text-align: justify;
+}
+
+.Formation, .Formation1
+
+{
+	font-size: 2em;
+
+	font-family: Verdana;
+
+	color: black;
+
+	margin-left: 400px;
+}
+
+.bordure 
+
+{
+
+border-bottom: 5px solid #03A9F4;
+
+margin-left: 350px;
+
+margin-top: -6px;
+
+}
+
+.For
+
+{
+	font-size: 1.1em;
+
+	font-family: Verdana;
+
+	color: #03A9F4;
+
+	margin-top: 50px;
+
+	margin-left: 400px;
+}
+
+.For0
+
+{
+	font-size: 1.1em;
+
+	font-family: Verdana;
+
+	color: #03A9F4;
+
+	margin-top: -180px;
+
+	margin-left: 500px;
+}
+
+.For01
+
+{
+	font-size: 1.1em;
+
+	font-family: Verdana;
+
+	color: #03A9F4;
+
+	margin-top: -180px;
+
+	margin-left: 210px;
+}
+
+.Cours
+
+{
+	font-size: 1em;
+
+	font-family: Verdana;
+
+	color: black;
+
+	text-align: center;
+
+	margin-top: 40px;
+}
+
+.Cours0
+
+{
+    font-size: 1em;
+
+	font-family: Verdana;
+
+	color: black;
+
+	margin-top: 30px;
+
+	margin-left: 500px;
+}
+
+.Cours01
+
+{
+    font-size: 1em;
+
+	font-family: Verdana;
+
+	color: black;
+
+	margin-top: 30px;
+
+	margin-left: 210px;
+}
+
+i
+
+{
+	margin-left: 29px;
+	margin-top: -20px;
+}
+
+.bordure1
+
+{
+
+border-bottom: 5px 
+
+solid #03A9F4;
+
+margin-left: 350px;
+
+margin-top: 70px;
+
+}
+
+
+
+
+
+@media all and (max-width: 1024px)
+
+{
+	nav
+
+	{
+
+		width: auto;
+		text-align: center;
+		height: 1980px;
+
+	}
+
+	section p, div
+
+	{
+		width: auto;
+		text-align: center;
+		margin-left: 0px !important;
+	}
+
+	section
+
+	{
+		margin-left:0 !important;
+	}
+
+
+	.section0
+
+	{
+		display: block;
+	}
+
+	.section1
+
+	{
+		display: none;
+	}
+
+	.section2
+
+	{
+		margin-top: 2000px;
+	}
+
+	.section5
+
+	{
+		display: none;
+	}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
