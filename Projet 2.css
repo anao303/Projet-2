@@ -13,13 +13,14 @@ aside, section
 aside
 
 {
-	float: left;
 
 	background-color: #263238;
 
 	width: 25%;
 
 	height: 2060px;
+
+	display: inline-block;
 
 }
 
@@ -36,6 +37,20 @@ p
 
 }
 
+main
+{
+	width: 70%;
+
+	display: inline-block;
+
+	margin-left: 3%;
+}
+
+body
+{
+	margin: 0;
+}
+
 
 .Formation1
 
@@ -47,20 +62,10 @@ p
 .section0
 
 {
-	margin-left: 450px;
 	display: none;
 }
 
 
-
-
-.section1
-
-{
-
-	margin-left: 450px;
-
-}
 
 .Nom
 
@@ -186,8 +191,6 @@ p
 	font-family: Verdana;
 
 	color: black;
-
-	margin-left: 400px;
 }
 
 .bordure 
