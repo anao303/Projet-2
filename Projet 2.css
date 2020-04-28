@@ -1,9 +1,15 @@
 
 
-aside, section
+aside
 
 {
 	padding: 30px 0;
+}
+
+section, header
+
+{
+	margin: 0;
 }
 
 
@@ -118,7 +124,19 @@ body
 
 {
 
-    overflow: hidden;
+    text-align: center;
+
+    margin: auto;
+
+    margin-top: 55px;
+
+ 
+}
+
+.cercle img
+
+{
+	overflow: hidden;
 
     -webkit-border-radius: 100px;
 
@@ -126,15 +144,9 @@ body
 
     border-radius: 100px;
 
-    width: 190px;
+	width: 190px;
 
-    height: 190px;
-
-    margin: auto;
-
-    margin-top: 55px;
-
- 
+	height: 190px;
 }
 
 .Contact
