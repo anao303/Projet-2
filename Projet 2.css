@@ -3,7 +3,7 @@
 aside, section
 
 {
-	padding: 1px 0;
+	padding: 30px 0;
 }
 
 
@@ -18,7 +18,7 @@ aside
 
 	width: 25%;
 
-	height: 2060px;
+	height: 2270px;
 
 	display: inline-block;
 
@@ -44,6 +44,7 @@ main
 	display: inline-block;
 
 	margin-left: 3%;
+
 }
 
 body
@@ -170,7 +171,7 @@ body
 
 	text-align: center;
 
-	margin-top: 270px;
+	margin-top: 500px;
 
 }
 
@@ -199,8 +200,6 @@ body
 
 border-bottom: 5px solid #03A9F4;
 
-margin-left: 350px;
-
 margin-top: -6px;
 
 }
@@ -215,8 +214,6 @@ margin-top: -6px;
 	color: #03A9F4;
 
 	margin-top: 50px;
-
-	margin-left: 400px;
 }
 
 .For0
@@ -228,9 +225,11 @@ margin-top: -6px;
 
 	color: #03A9F4;
 
-	margin-top: -180px;
+	margin-top: 50px;
 
-	margin-left: 500px;
+	margin-left: 150px;
+
+
 }
 
 .For01
@@ -242,9 +241,9 @@ margin-top: -6px;
 
 	color: #03A9F4;
 
-	margin-top: -180px;
+	margin-left: 170px;
 
-	margin-left: 210px;
+	margin-top: 50px;
 }
 
 .Cours
@@ -272,7 +271,7 @@ margin-top: -6px;
 
 	margin-top: 30px;
 
-	margin-left: 500px;
+	margin-left: 150px;
 }
 
 .Cours01
@@ -286,7 +285,7 @@ margin-top: -6px;
 
 	margin-top: 30px;
 
-	margin-left: 210px;
+	margin-left: 170px;
 }
 
 i
@@ -296,19 +295,7 @@ i
 	margin-top: -20px;
 }
 
-.bordure1
 
-{
-
-border-bottom: 5px 
-
-solid #03A9F4;
-
-margin-left: 350px;
-
-margin-top: 70px;
-
-}
 
 
 
@@ -323,7 +310,7 @@ margin-top: 70px;
 
 		width: auto;
 		text-align: center;
-		height: 1980px;
+		height: 2550px;
 
 	}
 
@@ -341,6 +328,16 @@ margin-top: 70px;
 		margin-left:0 !important;
 	}
 
+	main
+{
+	width: 95%;
+
+	display: inline-block;
+
+	margin-left: 3%;
+
+}
+
 
 	.section0
 
@@ -357,13 +354,13 @@ margin-top: 70px;
 	.section2
 
 	{
-		margin-top: 2000px;
+		margin-top: 30px;
 	}
 
-	.section5
+	.Titre, .Sous-titre
 
 	{
-		display: none;
+		color: white;
 	}
 
 
