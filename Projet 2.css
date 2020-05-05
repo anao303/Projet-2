@@ -1,18 +1,20 @@
 
 
+
+
 aside
 
 {
 	padding: 30px 0;
 }
 
+
+
 section, header
 
 {
 	margin: 0;
 }
-
-
 
 
 
@@ -47,8 +49,11 @@ body
 
 {
 	margin: 0;
-	font-size: 17px;
+
+    font-size: 17px;
 }
+
+
 
 article
 
@@ -59,6 +64,26 @@ article
 
     float: right;
 }
+
+
+
+article section
+
+{
+	margin-top: 100px;
+}
+
+
+
+i
+
+{
+	margin-left: 29px;
+
+	margin-top: -20px;
+}
+
+
 
 
 .Formation1
@@ -72,6 +97,12 @@ article
 
 {
 	display: none;
+}
+
+.section1
+
+{
+	margin-top: 100px;
 }
 
 
@@ -185,7 +216,7 @@ article
 
 	text-align: center;
 
-	margin-top: 500px;
+	margin-top: 475px;
 
 }
 
@@ -209,13 +240,14 @@ article
 	color: black;
 }
 
+
 .bordure 
 
 {
 
-border-bottom: 5px solid #03A9F4;
+    border-bottom: 5px solid #03A9F4;
 
-margin-top: -6px;
+    margin-top: -6px;
 
 }
 
@@ -242,8 +274,19 @@ margin-top: -6px;
 
 	margin-top: 50px;
 
-	margin-left: 150px;
 
+}
+
+.Cours0
+
+{
+    font-size: 1em;
+
+	font-family: Verdana;
+
+	color: black;
+
+	margin-top: 30px;
 
 }
 
@@ -275,20 +318,6 @@ margin-top: -6px;
 	margin-top: 40px;
 }
 
-.Cours0
-
-{
-    font-size: 1em;
-
-	font-family: Verdana;
-
-	color: black;
-
-	margin-top: 30px;
-
-	margin-left: 150px;
-}
-
 .Cours01
 
 {
@@ -305,13 +334,10 @@ margin-top: -6px;
 
 
 
-i
 
-{
-	margin-left: 29px;
 
-	margin-top: -20px;
-}
+
+
 
 
 
