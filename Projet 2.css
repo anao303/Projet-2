@@ -24,8 +24,6 @@ aside
 
 	width: 25%;
 
-	height: 2270px;
-
 	display: inline-block;
 
 }
@@ -43,19 +41,23 @@ p
 
 }
 
-main
-{
-	width: 70%;
 
-	display: inline-block;
-
-	margin-left: 3%;
-
-}
 
 body
+
 {
 	margin: 0;
+	font-size: 17px;
+}
+
+article
+
+{
+	width: 70%;
+    
+    display: inline-block;
+
+    float: right;
 }
 
 
@@ -196,6 +198,7 @@ body
 	text-align: justify;
 }
 
+
 .Formation, .Formation1
 
 {
@@ -300,12 +303,16 @@ margin-top: -6px;
 	margin-left: 170px;
 }
 
+
+
 i
 
 {
 	margin-left: 29px;
+
 	margin-top: -20px;
 }
+
 
 
 
@@ -322,15 +329,15 @@ i
 
 		width: auto;
 		text-align: center;
-		height: 2550px;
+		height: 2600px;
 
 	}
 
-	section p, div
+	section p, section
 
 	{
 		width: auto;
-		text-align: center;
+		text-align: center !important; 
 		margin-left: 0px !important;
 	}
 
@@ -341,13 +348,28 @@ i
 	}
 
 	main
+
 {
-	width: 95%;
+	width: 100%;
 
 	display: inline-block;
 
-	margin-left: 3%;
+}
 
+    article 
+
+{
+	width: 100%;
+    
+    display: inline-block;
+
+    float: none;
+}
+
+article section
+
+{
+	padding: 10px;
 }
 
 
@@ -373,6 +395,12 @@ i
 
 	{
 		color: white;
+	}
+
+	.bla
+
+	{
+		padding-left: 25px;
 	}
 
 
