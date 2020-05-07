@@ -398,6 +398,12 @@ article section
 	padding: 10px;
 }
 
+table
+
+{
+	display: inline-block;
+}
+
 
 	.section0
 
@@ -428,8 +434,6 @@ article section
 	{
 		padding-left: 25px;
 	}
-
-
 
 }
 
