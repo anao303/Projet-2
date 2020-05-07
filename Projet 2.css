@@ -75,7 +75,7 @@ article section
 
 
 
-i
+i                        /* Tout les logo de la page */
 
 {
 	margin-left: 29px;
@@ -86,8 +86,7 @@ i
 
 
 
-.Formation1
-
+.Formation1               /* Titre Formation Scolaire */
 {
 	margin-top: 80px;
 }
@@ -166,7 +165,7 @@ i
  
 }
 
-.cercle img
+.cercle img           /* Photo et Cercle Mario */
 
 {
 	overflow: hidden;
@@ -182,7 +181,7 @@ i
 	height: 190px;
 }
 
-.Contact
+.Contact                /* Tout les titre Bleu de la partie de gauche "aside" */
 
 {
 
@@ -200,7 +199,7 @@ i
 
 }
 
-.Contact0
+.Contact0                /* Titre Loisir de la partie de gauche "aside" */
 
 {
 
@@ -220,7 +219,7 @@ i
 
 }
 
-.bla
+.bla                       /* Imformation de la partie aside */
 
 {
 
@@ -230,7 +229,7 @@ i
 }
 
 
-.Formation, .Formation1
+.Formation, .Formation1     /* Titre expériences professionels, langues et recommandations */
 
 {
 	font-size: 2em;
@@ -254,7 +253,7 @@ i
 .For
 
 {
-	font-size: 1.1em;
+	font-size: 1.1em;          /* Titre de toute les sections */
 
 	font-family: Verdana;
 
@@ -263,7 +262,21 @@ i
 	margin-top: 50px;
 }
 
-.For0
+.Cours                        /* "Cours" de toute les sections */
+
+{
+	font-size: 1em;
+
+	font-family: Verdana;
+
+	color: black;
+
+	text-align: center;
+
+	margin-top: 40px;
+}
+
+.For0                        /* "Cours" Miyamoto */
 
 {
 	font-size: 1.1em;
@@ -277,7 +290,7 @@ i
 
 }
 
-.Cours0
+.Cours0                        /* "Cours" info Miyamoto */
 
 {
     font-size: 1em;
@@ -304,20 +317,6 @@ i
 	margin-top: 50px;
 }
 
-.Cours
-
-{
-	font-size: 1em;
-
-	font-family: Verdana;
-
-	color: black;
-
-	text-align: center;
-
-	margin-top: 40px;
-}
-
 .Cours01
 
 {
@@ -331,7 +330,6 @@ i
 
 	margin-left: 170px;
 }
-
 
 
 
