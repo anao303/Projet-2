@@ -356,9 +356,7 @@ i                        /* Tout les logo de la page */
 @media all and (max-width: 1024px)
 
 {
-
-	<meta name="viewport" content="width=500, initial-scale=1">
-
+	
 	aside
 
 	{
