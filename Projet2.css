@@ -356,14 +356,14 @@ i                        /* Tout les logo de la page */
 @media all and (max-width: 1024px)
 
 {
-	
+
 	aside
 
 	{
 
 		width: auto;
 		text-align: center;
-		height: 2600px;
+		height: auto;
 
 	}
 
