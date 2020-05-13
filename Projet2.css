@@ -32,7 +32,7 @@ aside
 
 
 
-p
+.bla
 
 {
 
@@ -84,6 +84,12 @@ i                        /* Tout les logo de la page */
     margin-left: 29px;
 
 	margin-top: -20px;
+}
+
+table i
+
+{
+	color: #03A9F4;
 }
 
 
@@ -218,7 +224,7 @@ i                        /* Tout les logo de la page */
 
 	text-align: center;
 
-	margin-top: 475px;
+	margin-top: 410px;
 
 }
 
@@ -250,6 +256,8 @@ i                        /* Tout les logo de la page */
     border-bottom: 5px solid #03A9F4;
 
     margin-top: -6px;
+
+    margin-bottom: 50px;
 
 }
 
@@ -288,7 +296,7 @@ i                        /* Tout les logo de la page */
 
 	color: #03A9F4;
 
-	margin-top: 50px;
+	margin-top: 0px;
 
 
 }
@@ -317,10 +325,42 @@ i                        /* Tout les logo de la page */
 
 	margin-left: 170px;
 
-	margin-top: 50px;
+	margin-top: 0px;
 }
 
-.Cours01
+.For02
+
+{
+	margin-left: 80px;
+	margin-top: -30px;
+	font-size: 1.1em;
+	color: #263238;
+}
+
+.For03
+
+{
+	margin-left: 80px;
+	margin-top: -30px;
+	font-size: 1.1em;
+	color: #263238;
+}
+
+.For04, .For05
+
+{
+	font-size: 1.1em;
+
+	font-family: Verdana;
+
+	color: #03A9F4;
+
+	margin-left: 170px;
+
+	margin-top: 0px;
+}
+
+.Cours01, .Cours05
 
 {
     font-size: 1em;
@@ -371,7 +411,7 @@ i                        /* Tout les logo de la page */
 
 	{
 		width: auto;
-		text-align: center !important; 
+		text-align: center !important;
 		margin-left: 0px !important;
 	}
 
@@ -412,6 +452,12 @@ table
 	display: inline-block;
 }
 
+   .dot
+
+    {
+	    display: none;
+    }
+
 
 	.section0
 
@@ -437,6 +483,7 @@ table
 		color: white;
 	}
 
+
 	.bla
 
 	{
@@ -447,6 +494,20 @@ table
 
 	{
 		padding-left: 50px;
+	}
+
+	.For04, .For05
+
+	{
+		text-align: center;
+		color: #03A9F4;
+	}
+
+	.Cours05
+
+	{
+		text-align: center;
+		color: black;
 	}
 
 }
